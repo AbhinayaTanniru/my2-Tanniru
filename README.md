@@ -27,6 +27,8 @@ Best dishes in Puducherry are :
    - Fish Kabab
    - Idly Vada
    - Ghee karam Dosa
+
+   [About Me](MyStats.md)
    
 
 
