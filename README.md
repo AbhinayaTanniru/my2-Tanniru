@@ -24,10 +24,11 @@ Best 3 places I visited in puducherry is :
 ***
 Best dishes in Puducherry are :
    
-   - Khowsuey
-   - Spinach Crepe
-   - Soybean Dosa
-   
+   - Fish Kabab
+   - Idly Vada
+   - Ghee karam Dosa
+
+
 
 
 
