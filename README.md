@@ -40,6 +40,15 @@ Best dishes in Puducherry are :
 | Hockey    | Hockey requires precise hand-eye coordination and balance, which can improve overall motor skills.     | 4 - 5 hours   |  
 
 
+---
+
+# Dr. APJ Abdul Kalam quotes
+   > "Dream, dream, dream. Dreams transform into thoughts and thoughts result in action."
+   >  *Dr. APJ Abdul Kalam*
+
+   > "You have to dream before your dreams can come true."
+   >  *Dr. APJ Abdul Kalam*
+
 
 
 
