@@ -12,4 +12,16 @@ Pondicherry boasts unblemished, serene beaches, where beach lovers can kick back
 
 **Arulmigu Manakula Vinayagar Temple**
 
+***
+## Favorite holiday trip :
+
+Best 3 places I visited in puducherry is :
+
+1. French Colony
+2. Paradise Beach
+3. Matrimandir
+
+
+
+
 
