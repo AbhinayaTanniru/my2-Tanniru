@@ -49,6 +49,36 @@ Best dishes in Puducherry are :
    > "You have to dream before your dreams can come true."
    >  *Dr. APJ Abdul Kalam*
 
+   ___
+
+https://stackoverflow.com/questions/2544441/clearing-a-default-value-in-a-search-box-with-jquery
+
+> Can't seem to achieve this simple functionality! All I want is to clear a default search term in an input box when it is clicked. The following works up to a point but clears any other text entered, I would've thought resetting search_form_text should have solved this:
+
+
+
+      $("#s")
+    .val("Search...")
+    .css("color", "#ccc")
+    .focus(function(){
+        $(this).css("color", "black");
+        if ($(this).val() == "Search...") {
+            $(this).val("");
+        }
+    })
+    .blur(function(){
+        $(this).css("color", "#ccc");
+        if ($(this).val() == "") {
+            $(this).val("Search...");
+        }
+    });
+
+
+
+https://css-tricks.com/snippets/jquery/clear-default-search-string-on-focus/
+
+
+
 
 
 
