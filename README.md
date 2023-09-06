@@ -29,7 +29,15 @@ Best dishes in Puducherry are :
    - Ghee karam Dosa
 
    [About Me](MyStats.md)
-   
+
+   ### Sports I like are :
+
+   | Name of a sport.    | Reason to recomend it | How many hours to spend     | 
+| :---        |    :----:   |          ---: |
+| Basketball    | Physical Fitness and healthy life style       | 4 - 5 Hours per week   |
+| chess  |  Chess enhances critical thinking, problem-solving, and strategic planning skills.       | 5 - 6 hours     |
+| Tennis    | Frequent tennis play helps develop muscle strength and flexibility.      | 4 - 5 hours  |
+| Hockey    | Hockey requires precise hand-eye coordination and balance, which can improve overall motor skills.     | 4 - 5 hours   |  
 
 
 
